@@ -1,5 +1,5 @@
 <div align=center>
-  <img width=50px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA.png?token=AJK36YH3LPSXGLQFAF6YZDLAORQHM">
+  <img width=100px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA.png?token=AJK36YH3LPSXGLQFAF6YZDLAORQHM">
 
 ### Hi there 👋
 </div>

@@ -1,4 +1,5 @@
 <div align=center>
+  <img width=50px src="https://github.com/luca-ant/WhatsSee/blob/master/LA.png?raw=true">
 
 ### Hi there 👋
 </div>

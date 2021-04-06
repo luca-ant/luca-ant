@@ -8,9 +8,8 @@
   
 <img src="https://komarev.com/ghpvc/?username=luca-ant&label=Profile%20views&color=28a745&style=flat" alt="GitHub views" />
 <a href="https://github.com/luca-ant"><img src="https://img.shields.io/github/followers/luca-ant.svg?label=GitHub&style=flat" alt="GitHub"></a>
-<a href="https://twitter.com/luca_antognetti"><img src="https://img.shields.io/twitter/follow/luca_antognetti?label=Twitter&style=flat" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/luca-ant"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://www.linkedin.com/in/luca-ant"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/luca_antognetti"><img src="https://img.shields.io/twitter/follow/luca_antognetti?label=Twitter&style=flat&logo=twitter" alt="Twitter"></a>
 </div>
 
 <div align=center>

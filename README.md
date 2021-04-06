@@ -2,8 +2,12 @@
   <img width=100px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA.png">
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate Computer Engineer from Italy</h3>
+</div>
 
-<p> <img src="https://komarev.com/ghpvc/?username=luca-ant&label=Profile%20views&color=28a745&style=flat" alt="" /> </p>
+<div align=center>
+
+<a href="https://github.com/luca-ant"><img src="https://img.shields.io/github/followers/luca-ant.svg?label=GitHub&style=social" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=luca-ant&label=Profile%20views&color=28a745&style=flat" alt="" />
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luca-ant" alt="luca-ant" /></a> </p>
 

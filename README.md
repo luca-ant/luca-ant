@@ -1,7 +1,7 @@
 <div align="center" >
-    <h3 align="left">Hi, I'm Luca 👋</h3>
-    <h5 align="left">A passionate Computer Engineer from Italy</h5>
-    <img align="right" width=70px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA_Q.png">
+    <h3>Hi, I'm Luca 👋</h3>
+    <h5>A passionate Computer Engineer from Italy</h5>
+<!--     <img width=70px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA_Q.png"> -->
 </div>
 
 <div align="center">

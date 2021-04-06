@@ -5,13 +5,18 @@
 </div>
 
 <div align=center>
+  
+<img src="https://komarev.com/ghpvc/?username=luca-ant&label=Profile%20views&color=28a745&style=flat" alt="GitHub views" />
+<a href="https://github.com/luca-ant"><img src="https://img.shields.io/github/followers/luca-ant.svg?label=GitHub&style=flat" alt="GitHub"></a>
+<a href="https://twitter.com/luca_antognetti"><img src="https://img.shields.io/twitter/follow/luca_antognetti?label=Twitter&style=flat" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/luca-ant"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  
+</div>
 
-<a href="https://github.com/luca-ant"><img src="https://img.shields.io/github/followers/luca-ant.svg?label=GitHub&style=social" alt="GitHub"></a>
-<img src="https://komarev.com/ghpvc/?username=luca-ant&label=Profile%20views&color=28a745&style=flat" alt="" />
-
+<div align=center>
+  
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luca-ant" alt="luca-ant" /></a> </p>
 
-<p> <a href="https://twitter.com/luca_antognetti" target="blank"><img src="https://img.shields.io/twitter/follow/luca_antognetti?logo=twitter&style=flat" alt="luca_antognetti" /></a> </p>
 
 👨‍💻 All of my projects are available at [https://luca-ant.github.io](https://luca-ant.github.io)
 

@@ -1,7 +1,7 @@
 <div align=center>
   <h3>Hi, I'm Luca 👋</h3>
   <h5>A passionate Computer Engineer from Italy</h5>
-  <img width=70px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA.png">
+  <img width=70px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA_Q.png">
 </div>
 
 <div align=center>
@@ -11,6 +11,7 @@
   <a href="https://twitter.com/luca_antognetti"><img src="https://img.shields.io/twitter/follow/luca_antognetti?label=Twitter&style=flat&color=blue&logo=twitter" alt="Twitter"></a>
   <a href="https://luca-ant.github.io"><img alt="Website" src="https://img.shields.io/website?down_color=critical&down_message=down&up_color=success&up_message=up&url=https%3A%2F%2Fluca-ant.github.io"></a>
 </div>
+
 <!--
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luca-ant" alt="luca-ant" /></a>

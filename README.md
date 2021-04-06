@@ -7,9 +7,9 @@
 <div align=center>
   
 <img src="https://komarev.com/ghpvc/?username=luca-ant&label=GitHub%20profile%20views&color=28a745&style=flat" alt="GitHub views" />
-<a href="https://github.com/luca-ant"><img src="https://img.shields.io/github/followers/luca-ant.svg?label=GitHub&style=flat&logo=github" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/luca-ant"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/luca_antognetti"><img src="https://img.shields.io/twitter/follow/luca_antognetti?label=Twitter&style=flat&logo=twitter" alt="Twitter"></a>
+<a href="https://github.com/luca-ant"><img src="https://img.shields.io/github/followers/luca-ant.svg?label=GitHub&style=flat&color=grey&logo=github" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/luca-ant"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&color=blue&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/luca_antognetti"><img src="https://img.shields.io/twitter/follow/luca_antognetti?label=Twitter&style=flat&color=blue&logo=twitter" alt="Twitter"></a>
 </div>
 
 <div align=center>

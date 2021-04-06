@@ -1,10 +1,10 @@
-<div align=center>
+<div align="center">
   <h3>Hi, I'm Luca 👋</h3>
   <h5>A passionate Computer Engineer from Italy</h5>
-  <img width=70px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA_Q.png">
+  <img align="left" width=70px src="https://raw.githubusercontent.com/luca-ant/luca-ant/main/LA_Q.png">
 </div>
 
-<div align=center>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=luca-ant&label=GitHub%20profile%20views&color=28a745&style=flat&color=brightgreen" alt="GitHub views" />
   <a href="https://github.com/luca-ant"><img src="https://img.shields.io/github/followers/luca-ant.svg?label=GitHub&style=flat&color=brightgreen&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/luca-ant"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&color=blue&logo=linkedin" alt="LinkedIn"></a>
@@ -13,13 +13,13 @@
 </div>
 
 <!--
-<div align=center>
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luca-ant" alt="luca-ant" /></a>
 </div>
 -->
 
 <!--
-<div align=center>  
+<div align="center">
   <h3>Languages and Tools:</h3>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -32,7 +32,7 @@
 </div>
 -->
 
-<div align=center>
+<div align="center">
   <img height=125px src="https://github-readme-stats.vercel.app/api?username=luca-ant&show_icons=true&locale=en&theme=vue-dark" alt="luca-ant" />
   <img height=125px src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-ant&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="luca-ant" />
   <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luca-ant&" alt="luca-ant" /> -->

@@ -32,8 +32,8 @@
 -->
 
 <div align=center>
-  <img style="display:flex; justify-content:center; align-items:center;" src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-ant&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="luca-ant" />
-  <img style="display:flex; justify-content:center; align-items:center;" src="https://github-readme-stats.vercel.app/api?username=luca-ant&show_icons=true&locale=en&theme=vue-dark" alt="luca-ant" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-ant&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="luca-ant" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luca-ant&show_icons=true&locale=en&theme=vue-dark" alt="luca-ant" />
   <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luca-ant&" alt="luca-ant" /> -->
 </div>
 

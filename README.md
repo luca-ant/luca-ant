@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate Computer Engineer from Italy</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=luca-ant&label=Profile%20views&color=0e75b6&style=flat" alt="luca-ant" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=luca-ant&color=green&style=flat" alt="" /> </p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luca-ant" alt="luca-ant" /></a> </p>
 
